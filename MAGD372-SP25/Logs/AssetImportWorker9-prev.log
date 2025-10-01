@@ -1,0 +1,826 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/staging' branch; Version is '6000.2.1f1 (55300504c302) revision 5582853'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven" at "2025-10-01T03:08:25.3955935Z"
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 49041 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-10-01T03:08:25Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker9
+-projectPath
+C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+-logFile
+Logs/AssetImportWorker9.log
+-srvPort
+57418
+-licensingIpc
+LicenseClient-Steven
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8708]  Target information:
+
+Player connection [8708]  * "[IP] 173.0.253.225 [Port] 0 [Flags] 2 [Guid] 1668944838 [EditorId] 1668944838 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKN0W4N) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [8708] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8708] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 15384, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.17.2'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Steven"
+[Licensing::IpcConnector] LicenseClient-Steven channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1" at "2025-10-01T03:08:25.4340695Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 11732, path: "C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.2+ff71f16
+  Session Id:              eb3654dd95694819b1ceee43bb809fda
+  Correlation Id:          af0a56fce7cb1f8dc3bc75fe685669cc
+  External correlation Id: 6191587895647156182
+  Machine Id:              2sNOENogX6cWzd6C8v6MCqh1Gw4=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Steven-6000.2.1" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1-notifications" at "2025-10-01T03:08:25.444824Z"
+[Licensing::Module] Licensing Background thread has ended after 0.05s
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.1f1 (55300504c302)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3070 (ID=0x2488)
+    Vendor:          NVIDIA
+    VRAM:            8018 MB
+    App VRAM Budget: 7250 MB
+    Driver:          32.0.15.8142
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56564
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 2475791050566-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.010074 seconds.
+- Loaded All Assemblies, in  0.401 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 207 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.557 seconds
+Domain Reload Profiling: 955ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (150ms)
+		LoadAssemblies (128ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (146ms)
+			TypeCache.Refresh (144ms)
+				TypeCache.ScanAssembly (133ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (558ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (516ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (319ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (95ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.821 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-MAGD372-SP25
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.838 seconds
+Domain Reload Profiling: 1652ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (565ms)
+		LoadAssemblies (373ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (286ms)
+			TypeCache.Refresh (208ms)
+				TypeCache.ScanAssembly (193ms)
+			BuildScriptInfoCaches (62ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (838ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (649ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (402ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 191 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8357 unused Assets / (29.4 MB). Loaded Objects now: 9085.
+Memory consumption went from 268.5 MB to 239.1 MB.
+Total: 11.438600 ms (FindLiveObjects: 0.816100 ms CreateObjectMapping: 0.433000 ms MarkObjects: 4.801100 ms  DeleteObjects: 5.387400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158350.908708 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Antlers_2_Albedo.png
+  artifactKey: Guid(59d0c107e270c5c418433207a9dbf523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Antlers_2_Albedo.png using Guid(59d0c107e270c5c418433207a9dbf523) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+ -> (artifact id: 'bd9391b7752dc60774c5c23c79774d51') in 0.0790671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Axe_Albedo.png
+  artifactKey: Guid(c5696851b0278a84d87a894090dbbdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Axe_Albedo.png using Guid(c5696851b0278a84d87a894090dbbdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '556b7bad5535d2bf5754b7e61770fb24') in 0.0193519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Fridge_DoorH_Normal.png
+  artifactKey: Guid(e98a9a41302c786479d4d54ad3460fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Fridge_DoorH_Normal.png using Guid(e98a9a41302c786479d4d54ad3460fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc2bdec03cfad4c5b16cf188b30e2b78') in 0.0432764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Chair_Chair_MetallicSmoothness.png
+  artifactKey: Guid(f0c31dc078114c941a57a919b1dadcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Chair_Chair_MetallicSmoothness.png using Guid(f0c31dc078114c941a57a919b1dadcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62ef5f29929a43a4221fdfb6c4b7d686') in 0.038456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Bed_MetallicSmoothness.png
+  artifactKey: Guid(6de38f821390f474c8dc076efbc88aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Bed_MetallicSmoothness.png using Guid(6de38f821390f474c8dc076efbc88aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49cd53d23ce0c411a12c1f43a62e6a29') in 0.0292039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Fridge_Case_Albedo.png
+  artifactKey: Guid(da009f2ff4b22a646ad2359ad9cf60c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Fridge_Case_Albedo.png using Guid(da009f2ff4b22a646ad2359ad9cf60c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c39c0397d1bb5879ffc479951ff45110') in 0.0182103 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Antlers_MetallicSmoothness.png
+  artifactKey: Guid(6c43b5cbf1b5554488f6712b57821950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Antlers_MetallicSmoothness.png using Guid(6c43b5cbf1b5554488f6712b57821950) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76a337bd1dfa89374031f4a6b366371e') in 0.0148019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Front_Door_AlbedoTransparency.png
+  artifactKey: Guid(093ce4fc2bc713545a20d43949f417fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Front_Door_AlbedoTransparency.png using Guid(093ce4fc2bc713545a20d43949f417fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3730052848e08007c80c5c8647040ad5') in 0.0185231 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Antlers_Antlers_Wood_AlbedoTransparency.png
+  artifactKey: Guid(dc123337aa4cba4498b18ba6fa846789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Antlers_Antlers_Wood_AlbedoTransparency.png using Guid(dc123337aa4cba4498b18ba6fa846789) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f291c7521ceb45853b66d9888f6b68d0') in 0.0157268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Antlers_Normal.png
+  artifactKey: Guid(46d69f6b5eec3424a86221837fd9b100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Antlers_Normal.png using Guid(46d69f6b5eec3424a86221837fd9b100) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cce440f085c366c103fb7c4268b1d2a5') in 0.0174494 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Carpet_Albedo.png
+  artifactKey: Guid(253e323554e55b849a973932ed6e4a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Carpet_Albedo.png using Guid(253e323554e55b849a973932ed6e4a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e80229a3ff88cf66cf139fcbfa68a664') in 0.0207501 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Fridge_Case_Emission.png
+  artifactKey: Guid(f839318c8268baa4991fe0faf18a9a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Fridge_Case_Emission.png using Guid(f839318c8268baa4991fe0faf18a9a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a63eb757188b9b1e031abcec08fb81a') in 0.0153248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Antlers_Wood_MetallicSmoothness.png
+  artifactKey: Guid(0483ba64c6279144cbd4c2e3aaba70a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Antlers_Wood_MetallicSmoothness.png using Guid(0483ba64c6279144cbd4c2e3aaba70a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe098119bee14dc30a725deaf825f1a9') in 0.0166489 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Fridge_Case_Normal.png
+  artifactKey: Guid(21baa9c7939df8e4aacf7cc7885bd525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Fridge_Case_Normal.png using Guid(21baa9c7939df8e4aacf7cc7885bd525) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55aa6b4fd5adb895b042f38c420b61c6') in 0.01915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Chair_Chair_Normal.png
+  artifactKey: Guid(d9cb982a0c3e8174fa20fbe9195bff0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Chair_Chair_Normal.png using Guid(d9cb982a0c3e8174fa20fbe9195bff0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '164a94869bbbbfcf46c750f15dd98ef3') in 0.0158257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Chair_Chair_AlbedoTransparency.png
+  artifactKey: Guid(8499864cb7e4d3c4ea4cdc2d3864c9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Chair_Chair_AlbedoTransparency.png using Guid(8499864cb7e4d3c4ea4cdc2d3864c9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b96a43e70d7cf71acd65cf742056489') in 0.0167501 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Antlers_2_MetallicSmoothness.png
+  artifactKey: Guid(7ed6a9c95d5cec94c85e25f2aa07222b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Antlers_2_MetallicSmoothness.png using Guid(7ed6a9c95d5cec94c85e25f2aa07222b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b1b49053aa6b04e331151ad23a5db9b8') in 0.0164009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Fridge_DoorH_MetallicSmoothness.png
+  artifactKey: Guid(6c8c53f09b4d5714ba2652fa2ee97f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Fridge_DoorH_MetallicSmoothness.png using Guid(6c8c53f09b4d5714ba2652fa2ee97f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05386f0964489e174af9447a574198b8') in 0.0143366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Chest_Chest_AlbedoTransparency.png
+  artifactKey: Guid(fd63010aabf3d8741b7c8bbdaa2c1d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Chest_Chest_AlbedoTransparency.png using Guid(fd63010aabf3d8741b7c8bbdaa2c1d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '722e93de4bd250f0cd4db5504240caf2') in 0.0193247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Antlers_Wood_Normal.png
+  artifactKey: Guid(a42a25a0f1e959f46885fccbd5e6b3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Antlers_Wood_Normal.png using Guid(a42a25a0f1e959f46885fccbd5e6b3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b7d11f5a979fef1e2dd05d23e33e860') in 0.0149553 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.592203 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Front_Door_MetallicSmoothness.png
+  artifactKey: Guid(e78172ab95e53de49bccb7dee5f06b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Front_Door_MetallicSmoothness.png using Guid(e78172ab95e53de49bccb7dee5f06b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eee615e064a83e5bae00188434be7d86') in 0.0192874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Gas_Can_Albedo.png
+  artifactKey: Guid(6168ec28c0b1abc41a8eb16fad82ce40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Gas_Can_Albedo.png using Guid(6168ec28c0b1abc41a8eb16fad82ce40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '654cf0cee661aa8645f4a6140fb317d4') in 0.0176052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Table_Kitchen_Albedo.png
+  artifactKey: Guid(be918b0341e8dfa49883849b4e818c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Table_Kitchen_Albedo.png using Guid(be918b0341e8dfa49883849b4e818c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b99a299f5cc298b757d9adef73cd89aa') in 0.0158474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Case_Normal.png
+  artifactKey: Guid(ecbc429a90e80b4448dcbc8e90ffdd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Case_Normal.png using Guid(ecbc429a90e80b4448dcbc8e90ffdd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5de4e789b58df445de55cc8312b5ba76') in 0.0152705 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Gun_Gun_AlbedoTransparency.png
+  artifactKey: Guid(30ca9c3d50bf5154fa1d87a31d99ff4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Gun_Gun_AlbedoTransparency.png using Guid(30ca9c3d50bf5154fa1d87a31d99ff4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2c4e69c41f49dfe26c94b907436cc3d7') in 0.0173396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Main_MetallicSmoothness.png
+  artifactKey: Guid(86b16bb6b05b1a944bffd4df4e0bf6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Main_MetallicSmoothness.png using Guid(86b16bb6b05b1a944bffd4df4e0bf6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06f696369c656a1e00afa754f0000150') in 0.0203646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Interier_Wall_Normal.png
+  artifactKey: Guid(4f1200c8365d0dd47a5e57081ba84d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Interier_Wall_Normal.png using Guid(4f1200c8365d0dd47a5e57081ba84d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95b27ffbfb42fbc56a3db944d8039047') in 0.0292527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Pillier_AlbedoTransparency.png
+  artifactKey: Guid(f5c9af1a4e00228429f04522b73c6e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Pillier_AlbedoTransparency.png using Guid(f5c9af1a4e00228429f04522b73c6e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd776f89ee7174b9d4ec3596359e69246') in 0.0203448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Roof_Normal.png
+  artifactKey: Guid(43d380f41ac2cda47801f293352ae328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Roof_Normal.png using Guid(43d380f41ac2cda47801f293352ae328) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7278df0ffd91a31cb8b47e48ef06c41f') in 0.0194778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Door_MetallicSmoothness.png
+  artifactKey: Guid(10f179c9ed534d248a6ed3958b0b5e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Door_MetallicSmoothness.png using Guid(10f179c9ed534d248a6ed3958b0b5e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50f603c4255b74fce886857d269449ee') in 0.016393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Roof_Albedo.png
+  artifactKey: Guid(439b440b57dabcc41809f40e1394984b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Roof_Albedo.png using Guid(439b440b57dabcc41809f40e1394984b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e70b5e79a6a0a661c78006f93add65e') in 0.0154954 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Suspension_MetallicSmoothness.png
+  artifactKey: Guid(f615a821a6c8c33418970b43bb778467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Suspension_MetallicSmoothness.png using Guid(f615a821a6c8c33418970b43bb778467) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf10f170be569ef706b8fa87a9cd6073') in 0.0086458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Pillier_Normal.png
+  artifactKey: Guid(51ad0fddd3e9b4a4c886bdb4849fef7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Pillier_Normal.png using Guid(51ad0fddd3e9b4a4c886bdb4849fef7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b6f07e7a8ffddd0a4465a5be7cf6294') in 0.018151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Fence_MetallicSmoothness.png
+  artifactKey: Guid(91cc56568a255364480912bf276f86fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Fence_MetallicSmoothness.png using Guid(91cc56568a255364480912bf276f86fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26b75f7e02e89c7e4c2e0f15814c5711') in 0.0148555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Gas_Can_MetallicSmoothness.png
+  artifactKey: Guid(934c34929be696447b1dfa023859b09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Gas_Can_MetallicSmoothness.png using Guid(934c34929be696447b1dfa023859b09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce7aee40fc61e41bd1104b543a9ce846') in 0.0164087 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Television_Television_AlbedoTransparency.png
+  artifactKey: Guid(45b7f86161a07cc41b37de0e7ed03c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Television_Television_AlbedoTransparency.png using Guid(45b7f86161a07cc41b37de0e7ed03c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '449156b38c2f44197f46e018c12f0be5') in 0.0134922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_smallTable_MetallicSmoothness.png
+  artifactKey: Guid(06096c54e7877824bbb8884d08552639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_smallTable_MetallicSmoothness.png using Guid(06096c54e7877824bbb8884d08552639) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c52a9eb32f0170e108fae6b8904753c7') in 0.0150173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Television_Television_MetallicSmoothness.png
+  artifactKey: Guid(78d11e76e90b2a54ca6af5ed3dae7107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Television_Television_MetallicSmoothness.png using Guid(78d11e76e90b2a54ca6af5ed3dae7107) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '484818eca0776637f84d03fb3de46619') in 0.0165365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Door_MirrorShelf_Door_MetallicSmoothness.png
+  artifactKey: Guid(5e0459808d53ca545aa84684b74e5243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Door_MirrorShelf_Door_MetallicSmoothness.png using Guid(5e0459808d53ca545aa84684b74e5243) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c18121d65a708925b39e0aacbd311a95') in 0.0145164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Roof_MetallicSmoothness.png
+  artifactKey: Guid(95170ba2a931d7e46bf0b7a59745b15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Roof_MetallicSmoothness.png using Guid(95170ba2a931d7e46bf0b7a59745b15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '456f0526b0b9ca2fc4c0d670afcc23b8') in 0.016983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Gun_Gun_Normal.png
+  artifactKey: Guid(601e74701a0d66b478431d2b74d111cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Gun_Gun_Normal.png using Guid(601e74701a0d66b478431d2b74d111cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a49628c3865fb64f45d276d1f026b0e') in 0.0171188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Sofa_Pilow_Normal.png
+  artifactKey: Guid(90e3196aa5b1a4b46a88e9ba0ada7dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Sofa_Pilow_Normal.png using Guid(90e3196aa5b1a4b46a88e9ba0ada7dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '513c93c8781e6ff091a50dc8b626803c') in 0.0209165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Gas_Can_Normal.png
+  artifactKey: Guid(28479803709953e4b83cba74e78484ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Gas_Can_Normal.png using Guid(28479803709953e4b83cba74e78484ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '590e8872dd91b91655f443b00bff853e') in 0.0150612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Outside_Wall_Albedo.png
+  artifactKey: Guid(fc5e721cc2c0b614ab4af8a8c0680e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Outside_Wall_Albedo.png using Guid(fc5e721cc2c0b614ab4af8a8c0680e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a274b63bd2b189e9c234dd801c000258') in 0.0201256 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Towels_LowPoly_Towels_MetallicSmoothness.png
+  artifactKey: Guid(1b686bf2f0b34df46a3ba60d7890f415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Towels_LowPoly_Towels_MetallicSmoothness.png using Guid(1b686bf2f0b34df46a3ba60d7890f415) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e01e6baea55fe238e9b81e76b88a980') in 0.0150957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Outside_Wall_MetallicSmoothness.png
+  artifactKey: Guid(4df27f942038d3a4f952cfb6136c86f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Outside_Wall_MetallicSmoothness.png using Guid(4df27f942038d3a4f952cfb6136c86f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6dfafa33fbb6f248c40533527c21e37c') in 0.0123214 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_smallTable_Albedo.png
+  artifactKey: Guid(28ef928c8ada5d84a89c6d7c9b49670c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_smallTable_Albedo.png using Guid(28ef928c8ada5d84a89c6d7c9b49670c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3b45718671c0d0108943f4e9cc6e8b1') in 0.0182773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Tap_Albedo.png
+  artifactKey: Guid(4ccf045f03c587e44a1e633ca38a4096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Tap_Albedo.png using Guid(4ccf045f03c587e44a1e633ca38a4096) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fea78afb328f5dd37ebe5d6c76af8bb5') in 0.0163176 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Table_Kitchen_MetallicSmoothness.png
+  artifactKey: Guid(8fb5287621d4ebb439c89745f1278af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Table_Kitchen_MetallicSmoothness.png using Guid(8fb5287621d4ebb439c89745f1278af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4f9e681a10a06e04d146131fefc0a68') in 0.0153144 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Main_Normal.png
+  artifactKey: Guid(e9ba95075e332d940999b31739d82cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Main_Normal.png using Guid(e9ba95075e332d940999b31739d82cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '094f3ed393f89b375a6bad9324ccd7e3') in 0.0157871 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Furnance_Albedo.png
+  artifactKey: Guid(73f783e993204fc4ea158c67be94876a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Furnance_Albedo.png using Guid(73f783e993204fc4ea158c67be94876a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '277fa808ddef5c60a7c7e88d34b5faad') in 0.0155948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Door_Normal.png
+  artifactKey: Guid(d238146b4b0344d479da8a147b6137cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Wardrobe_Door_Normal.png using Guid(d238146b4b0344d479da8a147b6137cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af5acedacdaac27bfbaccad2bfaca862') in 0.0153126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Wood_Albedo.png
+  artifactKey: Guid(f77c51a35c0ee1747a0f0719bf216524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Wood_Albedo.png using Guid(f77c51a35c0ee1747a0f0719bf216524) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53b97af9779c55188ed31baa2038b93b') in 0.0163923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Shower_Normal.png
+  artifactKey: Guid(1a5cb8eb82686974d9e87c25c29cba6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Shower_Normal.png using Guid(1a5cb8eb82686974d9e87c25c29cba6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee5259edd434a839991099e3cdebb8fe') in 0.0157556 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Pillier_MetallicSmoothness.png
+  artifactKey: Guid(7b2d6329562a2994784ccd4337e39954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Pillier_MetallicSmoothness.png using Guid(7b2d6329562a2994784ccd4337e39954) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f64121675fa12d9c8a4fe34fdd9cfaa') in 0.0195923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Wood_Normal.png
+  artifactKey: Guid(88cb9ea65d09b134091546a4e0722f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Wood_Normal.png using Guid(88cb9ea65d09b134091546a4e0722f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '714aa61a3a634dfb4ca7d197fee7e0ac') in 0.0162801 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Toilet_Normal.png
+  artifactKey: Guid(3659f45e81261644b9b06d73b48cc59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Toilet_Normal.png using Guid(3659f45e81261644b9b06d73b48cc59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4d792ff02f3eb58f0ecd347ba51b592') in 0.0152104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Case_MetallicSmoothness.png
+  artifactKey: Guid(9bb4e3db56bdc1d4f94169c7ec5ff015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Case_MetallicSmoothness.png using Guid(9bb4e3db56bdc1d4f94169c7ec5ff015) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69bae25dc3738d708eba1c31f092da0c') in 0.0149899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_TableTelevision_Normal.png
+  artifactKey: Guid(27a73330a11720c40b29a586f8c8e9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_TableTelevision_Normal.png using Guid(27a73330a11720c40b29a586f8c8e9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ebeb84d2dd50908a128fa15f1bb15ea') in 0.0153914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Shower_Albedo.png
+  artifactKey: Guid(e50a9b77269ae3746b740f3a7c278680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Shower_Albedo.png using Guid(e50a9b77269ae3746b740f3a7c278680) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b8608b2f4f319fdea7b18837aeb48be0') in 0.0170747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_TableTelevision_MetallicSmoothness.png
+  artifactKey: Guid(e8469cfa390cc4f49849516a9a3d5262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_TableTelevision_MetallicSmoothness.png using Guid(e8469cfa390cc4f49849516a9a3d5262) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70a3c15269af87db61b676875fef79b2') in 0.0157729 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Fence_Albedo.png
+  artifactKey: Guid(f063331a58d316447adac6830eb48ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Fence_Albedo.png using Guid(f063331a58d316447adac6830eb48ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e69947438980922ff93a3b219ba74f53') in 0.013839 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Fence_Normal.png
+  artifactKey: Guid(4f3e02f516caf8c4582c7d5ac5032e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wasteland_Cabin_Fence_Normal.png using Guid(4f3e02f516caf8c4582c7d5ac5032e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '63065155e04894f09cd60f10f6a08b63') in 0.0141327 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Light_Emission.png
+  artifactKey: Guid(b4bd6c578d2d49b408c02ea36cc85268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Light_Emission.png using Guid(b4bd6c578d2d49b408c02ea36cc85268) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39b983c174b1622e43192e7306475d41') in 0.0143712 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Washing_Machine_MetallicSmoothness.png
+  artifactKey: Guid(00aa691e08dc2444ca2bfc399aa04f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Washing_Machine_MetallicSmoothness.png using Guid(00aa691e08dc2444ca2bfc399aa04f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33c528d1a605afd0c33ff77973697812') in 0.0164851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_smallTable_Normal.png
+  artifactKey: Guid(4d85b87ab0c01be4a87609c3aa2f1930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_smallTable_Normal.png using Guid(4d85b87ab0c01be4a87609c3aa2f1930) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86c50a14b9588ace4ccafd9a3048a28b') in 0.0150847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_Sink_MetallicSmoothness.png
+  artifactKey: Guid(9b834344cb7d8a54093301f11e6b6609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_Sink_MetallicSmoothness.png using Guid(9b834344cb7d8a54093301f11e6b6609) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10bc42865aa8e9ef97ad3ac4567a6c23') in 0.0158633 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Door_Normal.png
+  artifactKey: Guid(29d00374f4f097f4cbede66960404e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Wast_MirrorShelf_Door_Normal.png using Guid(29d00374f4f097f4cbede66960404e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a58d1a86a83eb35217695e1167182c6f') in 0.0137414 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.988044 seconds.
+  path: Assets/Wasteland Cabin/Show/ReflectionProbe-1.exr
+  artifactKey: Guid(a6a139a7cdbf6af4792db463d8f7d05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Show/ReflectionProbe-1.exr using Guid(a6a139a7cdbf6af4792db463d8f7d05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c9c9520c75ae724a2a71404c72d8e2bb') in 0.6433088 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 328
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.750227 seconds.
+  path: Assets/Wasteland Cabin/Textures/Floor.mat
+  artifactKey: Guid(de2e4e640aaec6144b4606b2d3792c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Floor.mat using Guid(de2e4e640aaec6144b4606b2d3792c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f5b6069b947280449398970c5d3192b') in 0.1034101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Wasteland Cabin/Textures/Pillier.mat
+  artifactKey: Guid(2fea95906db40f5469cf04c8dd30e52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Textures/Pillier.mat using Guid(2fea95906db40f5469cf04c8dd30e52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd50748dc8e96c8c104abbce5b84f5fe') in 0.0137123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

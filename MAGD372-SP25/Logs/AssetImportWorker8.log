@@ -1,0 +1,538 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/staging' branch; Version is '6000.2.1f1 (55300504c302) revision 5582853'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven" at "2025-10-01T14:00:28.5932118Z"
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 49041 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-10-01T14:00:28Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker8
+-projectPath
+C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+-logFile
+Logs/AssetImportWorker8.log
+-srvPort
+60594
+-licensingIpc
+LicenseClient-Steven
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [2428]  Target information:
+
+Player connection [2428]  * "[IP] 66.175.205.132 [Port] 0 [Flags] 2 [Guid] 4263349362 [EditorId] 4263349362 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKN0W4N) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [2428] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [2428] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 20804, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.17.2'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Steven"
+[Licensing::IpcConnector] LicenseClient-Steven channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1" at "2025-10-01T14:00:28.6345997Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 21688, path: "C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.2+ff71f16
+  Session Id:              bc32436a36fd44e79628fd19f0b81017
+  Correlation Id:          861c265a09226514cc765c926cf41477
+  External correlation Id: 1629697890093969329
+  Machine Id:              2sNOENogX6cWzd6C8v6MCqh1Gw4=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Steven-6000.2.1" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1-notifications" at "2025-10-01T14:00:28.6487514Z"
+[Licensing::Module] Licensing Background thread has ended after 0.06s
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.1f1 (55300504c302)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3070 (ID=0x2488)
+    Vendor:          NVIDIA
+    VRAM:            8018 MB
+    App VRAM Budget: 7250 MB
+    Driver:          32.0.15.8142
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56724
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 2475791050566-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.010122 seconds.
+- Loaded All Assemblies, in  0.397 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 226 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.617 seconds
+Domain Reload Profiling: 1011ms
+	BeginReloadAssembly (126ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (123ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (142ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (617ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (573ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (345ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (58ms)
+			ProcessInitializeOnLoadAttributes (112ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.868 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.68 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-MAGD372-SP25
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.876 seconds
+Domain Reload Profiling: 1733ms
+	BeginReloadAssembly (179ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (595ms)
+		LoadAssemblies (393ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (296ms)
+			TypeCache.Refresh (210ms)
+				TypeCache.ScanAssembly (195ms)
+			BuildScriptInfoCaches (71ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (876ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (663ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (132ms)
+			ProcessInitializeOnLoadAttributes (410ms)
+			ProcessInitializeOnLoadMethodAttributes (98ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 191 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8358 unused Assets / (29.7 MB). Loaded Objects now: 9087.
+Memory consumption went from 264.6 MB to 234.9 MB.
+Total: 11.721800 ms (FindLiveObjects: 0.820000 ms CreateObjectMapping: 0.384800 ms MarkObjects: 4.789500 ms  DeleteObjects: 5.727000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19795.655990 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader
+  artifactKey: Guid(0e3e180cadbdb684e936d9b445eb487d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader using Guid(0e3e180cadbdb684e936d9b445eb487d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9af9b2ffdd88446226c8a7231d226d06') in 0.005881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.129584 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Prefabs
+  artifactKey: Guid(659a758b0bea88342a8f7d3812ab9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Prefabs using Guid(659a758b0bea88342a8f7d3812ab9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe5a99003f5c59c6fc014b0a9a354cd9') in 0.0004409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.916285 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources
+  artifactKey: Guid(dc77ad855be57214eb39fd06212f2ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources using Guid(dc77ad855be57214eb39fd06212f2ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66d45e1f60c0d6ceb292dc0d1eeea998') in 0.0004383 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.546899 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs
+  artifactKey: Guid(dfbe97460f8acd1488a82178305cdf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs using Guid(dfbe97460f8acd1488a82178305cdf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'edd28b20f550caf306047aa4164b185b') in 0.0005147 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 309.491855 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat
+  artifactKey: Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat using Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a74d506fd5f18081530075fa2ced8d7') in 2.2423289 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 336
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.804 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.33 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.853 seconds
+Domain Reload Profiling: 1652ms
+	BeginReloadAssembly (234ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (487ms)
+		LoadAssemblies (375ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (202ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (181ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (854ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (677ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (419ms)
+			ProcessInitializeOnLoadMethodAttributes (105ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 187 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8356 unused Assets / (26.6 MB). Loaded Objects now: 9169.
+Memory consumption went from 294.6 MB to 268.0 MB.
+Total: 14.160300 ms (FindLiveObjects: 1.035500 ms CreateObjectMapping: 1.430200 ms MarkObjects: 5.048300 ms  DeleteObjects: 6.645700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1680.726245 seconds.
+  path: Assets/MotorcyclePack_
+  artifactKey: Guid(46ba3222466df0e40bd0db2294698024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_ using Guid(46ba3222466df0e40bd0db2294698024) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eab5b4001347f32e51cf90438b73b14f') in 0.0042417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.111481 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_URP_Build_
+  artifactKey: Guid(51ce2d965094fba448e1309f68cd8931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_URP_Build_ using Guid(51ce2d965094fba448e1309f68cd8931) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a44e50b58d65ee27f07d113b150d77c') in 0.0004935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.577005 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_
+  artifactKey: Guid(80bd679a2083b00479e1cbcbfb32e93f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_ using Guid(80bd679a2083b00479e1cbcbfb32e93f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3c64e7cdde44f6609e76acc351efbec') in 0.0004335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.040176 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_URP_Build_/Motorcycle_Pack_Naked_Chopper_Police_Bikes_Free_URP_Pack.unitypackage
+  artifactKey: Guid(bfca6151806e6894a9cf64dbc62901c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_URP_Build_/Motorcycle_Pack_Naked_Chopper_Police_Bikes_Free_URP_Pack.unitypackage using Guid(bfca6151806e6894a9cf64dbc62901c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bda9aa3a3914a8388d5630ef94e47a70') in 0.0159191 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.260773 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model
+  artifactKey: Guid(ea385c0f4e1a87840b56d286abdea8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model using Guid(ea385c0f4e1a87840b56d286abdea8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddb74ec2b5bcbeb8bbda67886d053e4e') in 0.0004514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042989 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_1_.fbx
+  artifactKey: Guid(b42b16da918d3884a8d7d2761e3164a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_1_.fbx using Guid(b42b16da918d3884a8d7d2761e3164a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '244121fa974615bda9c6a5c2aa4600cf') in 3.1039543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 456
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_5_.fbx
+  artifactKey: Guid(844dcfd46c077e145b32ed556fee3645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_5_.fbx using Guid(844dcfd46c077e145b32ed556fee3645) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c311b5b2f9e1d9655e339f0a43b5c83') in 0.2395287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 129
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_9_.fbx
+  artifactKey: Guid(e478312782a9e054384398e5cc46b723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_9_.fbx using Guid(e478312782a9e054384398e5cc46b723) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '129d2dff0b2ec50e83f69bc356f0946e') in 0.178104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 91
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_3_.fbx
+  artifactKey: Guid(b1620863d6625a94892d3f60cfb7ae32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_3_.fbx using Guid(b1620863d6625a94892d3f60cfb7ae32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '640a63992b12d39de9460295b8d94b92') in 0.2347112 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 129
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_4_.fbx
+  artifactKey: Guid(a2c63cffe49440b4db0ba0943c9e1ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Model/SuperMotors_4_.fbx using Guid(a2c63cffe49440b4db0ba0943c9e1ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5c81e580519f536c9877432839da2aa') in 0.2261947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 128
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.361561 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/an- 12.mat
+  artifactKey: Guid(4b9ea7d3506b55547bf81cdc97565f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/an- 12.mat using Guid(4b9ea7d3506b55547bf81cdc97565f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34a97c277ccd431aa87c07ffe1f6a346') in 0.0311619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/rev- 27.mat
+  artifactKey: Guid(50c551c860f6f4a48a087755fa85daa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/rev- 27.mat using Guid(50c551c860f6f4a48a087755fa85daa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eeba6271b46a555005ed4b0bb55a1828') in 0.0178194 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/inno-25.mat
+  artifactKey: Guid(555768237eac4174f8a705a8ffbd4825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/inno-25.mat using Guid(555768237eac4174f8a705a8ffbd4825) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '610f0111f35b2552a95f85f10d0cb97e') in 0.0211732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/wo-30.mat
+  artifactKey: Guid(f17975cbbff3f104188d428b51f55be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/wo-30.mat using Guid(f17975cbbff3f104188d428b51f55be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a253efd5526792df0323d21543c3ec57') in 0.0435619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/carbon-3.mat
+  artifactKey: Guid(8490ecde2987bc9499efd8c7d3a54f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/carbon-3.mat using Guid(8490ecde2987bc9499efd8c7d3a54f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f72c8bec01c0bfc74d659295f29e1ed5') in 0.0112377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/pc-2.mat
+  artifactKey: Guid(14addf37e7136d54eb141c8011784f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/pc-2.mat using Guid(14addf37e7136d54eb141c8011784f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af8ada960a40292d64308fdc58a93b64') in 0.0132459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/crash-mat.mat
+  artifactKey: Guid(fff27fc2253a50444ac0a436d1832310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/crash-mat.mat using Guid(fff27fc2253a50444ac0a436d1832310) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b03249ec1b21c3d9df54c4764cad2fdc') in 0.0087625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/mat- 12.mat
+  artifactKey: Guid(0ced4c9d95e7b4b42b5271a7a2520134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/mat- 12.mat using Guid(0ced4c9d95e7b4b42b5271a7a2520134) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c6cadc64ccd5dd89416a8e7accf734d') in 0.0179799 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/mat- 5.mat
+  artifactKey: Guid(590c43afcd583e54e8105063cd555b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/mat- 5.mat using Guid(590c43afcd583e54e8105063cd555b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ade90b79c483dbda82a09f4685e76704') in 0.0109786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/police-h-.mat
+  artifactKey: Guid(177437c4fdbac664fa53233617e5b948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/police-h-.mat using Guid(177437c4fdbac664fa53233617e5b948) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f706221074f6e8cc0c21d7ddc302b04') in 0.0100714 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/inno-27.mat
+  artifactKey: Guid(8a4768ab5bf9fb94b93fc2d3f942c226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/inno-27.mat using Guid(8a4768ab5bf9fb94b93fc2d3f942c226) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6fb8964e398921fba1131645c4b15bc') in 0.0117891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/hP3_ 61.mat
+  artifactKey: Guid(e7de4315f69a58c4db2d5831827c81b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Material/hP3_ 61.mat using Guid(e7de4315f69a58c4db2d5831827c81b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4aaab53f51041fd1209040e12207c91c') in 0.0094627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,594 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/staging' branch; Version is '6000.2.1f1 (55300504c302) revision 5582853'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven" at "2025-10-01T13:28:36.1593424Z"
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 49041 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-10-01T13:28:36Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+60594
+-licensingIpc
+LicenseClient-Steven
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15548]  Target information:
+
+Player connection [15548]  * "[IP] 66.175.205.132 [Port] 0 [Flags] 2 [Guid] 495255199 [EditorId] 495255199 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKN0W4N) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [15548] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [15548] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 20804, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.17.2'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Steven"
+[Licensing::IpcConnector] LicenseClient-Steven channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1" at "2025-10-01T13:28:36.2027853Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 21688, path: "C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.2+ff71f16
+  Session Id:              75efcf9fd9b34710a49635eece6000da
+  Correlation Id:          861c265a09226514cc765c926cf41477
+  External correlation Id: 3467917725895657891
+  Machine Id:              2sNOENogX6cWzd6C8v6MCqh1Gw4=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Steven-6000.2.1" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1-notifications" at "2025-10-01T13:28:36.2151184Z"
+[Licensing::Module] Licensing Background thread has ended after 0.06s
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.1f1 (55300504c302)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3070 (ID=0x2488)
+    Vendor:          NVIDIA
+    VRAM:            8018 MB
+    App VRAM Budget: 7250 MB
+    Driver:          32.0.15.8142
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56628
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 2475791050566-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.008352 seconds.
+- Loaded All Assemblies, in  0.362 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 204 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.559 seconds
+Domain Reload Profiling: 917ms
+	BeginReloadAssembly (113ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (150ms)
+		LoadAssemblies (112ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (145ms)
+			TypeCache.Refresh (144ms)
+				TypeCache.ScanAssembly (133ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (560ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (516ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (309ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (56ms)
+			ProcessInitializeOnLoadAttributes (99ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.825 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-MAGD372-SP25
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.828 seconds
+Domain Reload Profiling: 1646ms
+	BeginReloadAssembly (170ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (565ms)
+		LoadAssemblies (378ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (285ms)
+			TypeCache.Refresh (206ms)
+				TypeCache.ScanAssembly (190ms)
+			BuildScriptInfoCaches (65ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (829ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (637ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (124ms)
+			ProcessInitializeOnLoadAttributes (399ms)
+			ProcessInitializeOnLoadMethodAttributes (93ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 191 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8357 unused Assets / (29.8 MB). Loaded Objects now: 9086.
+Memory consumption went from 264.7 MB to 234.9 MB.
+Total: 11.701600 ms (FindLiveObjects: 0.803800 ms CreateObjectMapping: 0.386000 ms MarkObjects: 4.855300 ms  DeleteObjects: 5.656000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17897.449384 seconds.
+  path: Assets/RockFREE/mesh/rock1_LOD0.fbx
+  artifactKey: Guid(395cce1cea808a54c8df538cf4ff0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/mesh/rock1_LOD0.fbx using Guid(395cce1cea808a54c8df538cf4ff0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3593471c6482c021a98e327cca52629') in 0.0078772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089343 seconds.
+  path: Assets/RockFREE/mesh/rock1_LOD0.fbx
+  artifactKey: Guid(395cce1cea808a54c8df538cf4ff0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/mesh/rock1_LOD0.fbx using Guid(395cce1cea808a54c8df538cf4ff0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06a5191eec9061afe55206226162754f') in 0.8175638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 337
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.463188 seconds.
+  path: Assets/RockFREE/mesh/rock3_LOD0.fbx
+  artifactKey: Guid(413339dbbc52e4e44a563d9f8e19340c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/mesh/rock3_LOD0.fbx using Guid(413339dbbc52e4e44a563d9f8e19340c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5c56b28055f2c93253c3d627f519eae') in 0.0423019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057612 seconds.
+  path: Assets/RockFREE/mesh/rock3_LOD0.fbx
+  artifactKey: Guid(413339dbbc52e4e44a563d9f8e19340c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/mesh/rock3_LOD0.fbx using Guid(413339dbbc52e4e44a563d9f8e19340c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b38a8902ec5cf5111812765251c8c73') in 0.0265488 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.679703 seconds.
+  path: Assets/RockFREE/mesh/rock2_LOD0.fbx
+  artifactKey: Guid(5fe2f5cc1c7e6b542a0254c5b54176fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/mesh/rock2_LOD0.fbx using Guid(5fe2f5cc1c7e6b542a0254c5b54176fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a66bfb806e7914186baebfd50eef237') in 0.0005278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093617 seconds.
+  path: Assets/RockFREE/mesh/rock2_LOD0.fbx
+  artifactKey: Guid(5fe2f5cc1c7e6b542a0254c5b54176fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/mesh/rock2_LOD0.fbx using Guid(5fe2f5cc1c7e6b542a0254c5b54176fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a8f6b5147f6d95c2a4690dba14f2ca58') in 0.0501589 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.361132 seconds.
+  path: Assets/_TerrainAutoUpgrade
+  artifactKey: Guid(abee0062c4460574c850f8dbd07e95f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade using Guid(abee0062c4460574c850f8dbd07e95f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90c8199c556f6bbce303469f6541b80d') in 0.0005279 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.163180 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Terr_Cliff_Rock_DiffuseTerr_Cliff_Rock_Normal3d3aba195e4d26ee.terrainlayer
+  artifactKey: Guid(fcf5b2879c2b8734fb51074426c2b178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Terr_Cliff_Rock_DiffuseTerr_Cliff_Rock_Normal3d3aba195e4d26ee.terrainlayer using Guid(fcf5b2879c2b8734fb51074426c2b178) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+ -> (artifact id: '46562c6c2f6aa8a281577ec3bdc3614d') in 0.0469669 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.482874 seconds.
+  path: Assets/RockFREE/Textures/Terrain_Textures/Ground_Textures/Terr_Cliff_Rock_Diffuse.psd
+  artifactKey: Guid(7f316f91b1033294db619c1c980a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/Textures/Terrain_Textures/Ground_Textures/Terr_Cliff_Rock_Diffuse.psd using Guid(7f316f91b1033294db619c1c980a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '615a889b6502e653dec21c8139ab7bab') in 0.0204656 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.397496 seconds.
+  path: Assets/RockFREE/Textures/Terrain_Textures/Ground_Textures/Terr_Grass_Diffuse.psd
+  artifactKey: Guid(bb8549324f6331240b306b8ecb2e697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RockFREE/Textures/Terrain_Textures/Ground_Textures/Terr_Grass_Diffuse.psd using Guid(bb8549324f6331240b306b8ecb2e697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66351f2bec58b13438905bb090eceaa2') in 0.0317792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.327673 seconds.
+  path: Assets/AwesomeFreeScans
+  artifactKey: Guid(c0a9056fc88e37e4f95a73fd1d399fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans using Guid(c0a9056fc88e37e4f95a73fd1d399fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '251b338f6f19fe2faa552e0807f76ef1') in 0.0004656 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.941885 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs
+  artifactKey: Guid(89ab4891837a1b347b91ef88567b1bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs using Guid(89ab4891837a1b347b91ef88567b1bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eccc96dde220ff74175cf92f582f2639') in 0.0004169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.739473 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models
+  artifactKey: Guid(7894657ceb4c6914e91f1f2e4354b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models using Guid(7894657ceb4c6914e91f1f2e4354b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8f59bb819fe3918e86180d39536a1fe') in 0.0004504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.805153 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC
+  artifactKey: Guid(6a21a80529c1a324eaa1642652553036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC using Guid(6a21a80529c1a324eaa1642652553036) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b5f40b06ceaa72f5c55cbeda65fd7180') in 0.0004509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log01_LowEndPC.fbx
+  artifactKey: Guid(1f4d0176425242a46b69bb4925f60ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log01_LowEndPC.fbx using Guid(1f4d0176425242a46b69bb4925f60ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c33eab32777416005e11336d40b80556') in 0.0857412 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log24_LowEndPC.fbx
+  artifactKey: Guid(e7cb5b9be89d8014583b85f5025a640a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log24_LowEndPC.fbx using Guid(e7cb5b9be89d8014583b85f5025a640a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f769ba5b71c1995ad2a8d515c90ad7d8') in 0.0327789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log19_LowEndPC.fbx
+  artifactKey: Guid(bedc3dba29b739441b5732f1ce58f242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log19_LowEndPC.fbx using Guid(bedc3dba29b739441b5732f1ce58f242) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18a6db990efd81e5262ad58dec539319') in 0.0202009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log20_LowEndPC.fbx
+  artifactKey: Guid(22542125bdd60c04f966182d39e6b933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log20_LowEndPC.fbx using Guid(22542125bdd60c04f966182d39e6b933) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65633de48864e7dad736f0ae0f87eb30') in 0.0207751 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log03_LowEndPC.fbx
+  artifactKey: Guid(7a5a39f0e31c63942bd6b3ea424498e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log03_LowEndPC.fbx using Guid(7a5a39f0e31c63942bd6b3ea424498e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae659cb92e2e858e658d14d08bf4475c') in 0.021456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log26_LowEndPC.fbx
+  artifactKey: Guid(3ed1d97bf96db2b448c675a7f5881a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log26_LowEndPC.fbx using Guid(3ed1d97bf96db2b448c675a7f5881a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ee10dbceae8b34bcff3f7974941f38c') in 0.0227362 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log28_LowEndPC.fbx
+  artifactKey: Guid(2ba07d16a98f2cb42a11061cf757d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log28_LowEndPC.fbx using Guid(2ba07d16a98f2cb42a11061cf757d996) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24cef8d5b03db7bfce2004d8f37aebd0') in 0.0255036 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log22_LowEndPC.fbx
+  artifactKey: Guid(bfe795f53d51c17409820328f36ac24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log22_LowEndPC.fbx using Guid(bfe795f53d51c17409820328f36ac24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd2ba0c4de7db40c251094d63c3b8b70e') in 0.0232704 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log10_LowEndPC.fbx
+  artifactKey: Guid(62c764dcc2402de4fbac5ee6bf6a273f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log10_LowEndPC.fbx using Guid(62c764dcc2402de4fbac5ee6bf6a273f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06f4e3c42a60e5e27ad28b8fd48a90c8') in 0.0198275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log05_LowEndPC.fbx
+  artifactKey: Guid(f3f9e0b6d40c7ec42857976f461f406c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log05_LowEndPC.fbx using Guid(f3f9e0b6d40c7ec42857976f461f406c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '169dcf34e482fa8e5ac5148f13742f3f') in 0.0183037 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log16_LowEndPC.fbx
+  artifactKey: Guid(f715686d28971e545a646365bf31322e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log16_LowEndPC.fbx using Guid(f715686d28971e545a646365bf31322e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a84a9e9899e18aaedd0eb2a02d4bf9a') in 0.0203708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log08_LowEndPC.fbx
+  artifactKey: Guid(5a2ebfb8ae55e854cb1384754d7151c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log08_LowEndPC.fbx using Guid(5a2ebfb8ae55e854cb1384754d7151c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92c1a729d8d64aabbd8312bacd8465d3') in 0.0195487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log15_LowEndPC.fbx
+  artifactKey: Guid(eba41c8d3eff220428c658f9e865b369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log15_LowEndPC.fbx using Guid(eba41c8d3eff220428c658f9e865b369) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5f658572a5ac047ded8516fdee5c3b9') in 0.0185379 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log07_LowEndPC.fbx
+  artifactKey: Guid(b19c34ed4c6d4974cbbe39579a248613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/SM_AFS_Log07_LowEndPC.fbx using Guid(b19c34ed4c6d4974cbbe39579a248613) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f41a65b7735c3e373e99d150860c0d82') in 0.022514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.115046 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/No Name.mat
+  artifactKey: Guid(aedabaee900e00447b3856f53c49f40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Models/LowEndPC/No Name.mat using Guid(aedabaee900e00447b3856f53c49f40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7fcd3447511a56b055288e2886a006bf') in 0.0164786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.650432 seconds.
+  path: Assets/AwesomeFreeScans/WoodLogs/Materials/LowEndPC/MI_AFS_Log02_LowEndPC.mat
+  artifactKey: Guid(af95e6df13966974897baed0f3bf47eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AwesomeFreeScans/WoodLogs/Materials/LowEndPC/MI_AFS_Log02_LowEndPC.mat using Guid(af95e6df13966974897baed0f3bf47eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7f5592a6f73e3e6c4876886aedd2820d') in 1.5017746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 586.757064 seconds.
+  path: Assets/Diabolical Games/Destructible Objects/OBJECTS/Crate 3/Models/Crate 3 Debris High.fbx
+  artifactKey: Guid(b6361a64385287f4baf25ee407da9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Diabolical Games/Destructible Objects/OBJECTS/Crate 3/Models/Crate 3 Debris High.fbx using Guid(b6361a64385287f4baf25ee407da9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4730f55b9ed5fc89813b815b7cde8142') in 0.4895906 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 240
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.880388 seconds.
+  path: Assets/Diabolical Games/Destructible Objects/Textures/Wood2/Wood2 Height.png
+  artifactKey: Guid(3bb780927d49aa745a0d6180362f1ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Diabolical Games/Destructible Objects/Textures/Wood2/Wood2 Height.png using Guid(3bb780927d49aa745a0d6180362f1ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0b86e37f13143137f7053d52848c2ff') in 0.0226914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Diabolical Games/Destructible Objects/Textures/Wood2/Wood2 Normal.png
+  artifactKey: Guid(82745e8cc50f3c34e87184a850d751f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Diabolical Games/Destructible Objects/Textures/Wood2/Wood2 Normal.png using Guid(82745e8cc50f3c34e87184a850d751f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa2c0b19147efaff45945ae77acd4c11') in 0.0343438 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.453672 seconds.
+  path: Assets/Diabolical Games/Destructible Objects/OBJECTS/Crate 3/Prefabs/Crate 3 Debris High.prefab
+  artifactKey: Guid(370eca32531802549a838d8daffe374c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Diabolical Games/Destructible Objects/OBJECTS/Crate 3/Prefabs/Crate 3 Debris High.prefab using Guid(370eca32531802549a838d8daffe374c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a049c662245b00089fb1ccdb924a387') in 0.0399654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 335
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Diabolical Games/Destructible Objects/OBJECTS/Crate 3/Prefabs/Crate 3 Debris Low.prefab
+  artifactKey: Guid(06844fd77b1b99842bccc40b7f3a110f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Diabolical Games/Destructible Objects/OBJECTS/Crate 3/Prefabs/Crate 3 Debris Low.prefab using Guid(06844fd77b1b99842bccc40b7f3a110f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3946f61173f7610f024bd029d048fdd2') in 0.0334404 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 118
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.464613 seconds.
+  path: Assets/Wasteland Cabin/Models/Wood.mat
+  artifactKey: Guid(3da73ff227b5f0044b65cd6d9798271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wood.mat using Guid(3da73ff227b5f0044b65cd6d9798271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b21829457227e7b1acf2c0d7d2236fb1') in 0.0471318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.614278 seconds.
+  path: Assets/Wasteland Cabin/Models/Bed.mat
+  artifactKey: Guid(2db92334a37ded84d84adb3e205c20ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Bed.mat using Guid(2db92334a37ded84d84adb3e205c20ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac183f4302054a26a370f1b8317a1539') in 0.0163914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 428.807346 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/MaterialWaterExclusion.mat
+  artifactKey: Guid(1e520c84f7fd17c46af5586f6632155c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/MaterialWaterExclusion.mat using Guid(1e520c84f7fd17c46af5586f6632155c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70941aa64ec318408c2e50680f601513') in 0.0185283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/ShaderPassWaterCommon.hlsl
+  artifactKey: Guid(b842274dcd376dc43bd4caed3ed8555e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/ShaderPassWaterCommon.hlsl using Guid(b842274dcd376dc43bd4caed3ed8555e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b894f3f91dfd342cf82cb518b730a6f6') in 0.0012497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/ShaderPassWaterMask.hlsl
+  artifactKey: Guid(1e0295c8a18997d4d91935f794dff94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/ShaderPassWaterMask.hlsl using Guid(1e0295c8a18997d4d91935f794dff94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf2e15a9099566f73cf4d54560792794') in 0.0010014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/ShaderPassWaterGBuffer.hlsl
+  artifactKey: Guid(ad768a88ecf7d644499d711a5e345d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/ShaderPassWaterGBuffer.hlsl using Guid(ad768a88ecf7d644499d711a5e345d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '865b11908276b014468a021bfeb15f2f') in 0.0010532 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/UnderWaterUtilities.hlsl
+  artifactKey: Guid(9dc2afd7e5942114fb19a9e3c22b1b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/Water/Shaders/UnderWaterUtilities.hlsl using Guid(9dc2afd7e5942114fb19a9e3c22b1b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c2a33f6927313614f2727618733ae36') in 0.0009913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
