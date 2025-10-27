@@ -1,9 +1,9 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.2/staging' branch; Version is '6000.2.1f1 (55300504c302) revision 5582853'; Using compiler version '194234433'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven" at "2025-10-01T00:36:40.1607166Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven" at "2025-10-14T19:53:03.6288696Z"
 OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 49041 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2025-10-01T00:36:40Z
+Date: 2025-10-14T19:53:03Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.2.1f1\Editor\Unity.exe
@@ -17,7 +17,7 @@ C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57418
+59949
 -licensingIpc
 LicenseClient-Steven
 -job-worker-count
@@ -65,43 +65,43 @@ C:/Users/Steven/Documents/UnityProjects/MAGD372-SP25/MAGD372-SP25
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [34144]  Target information:
+Player connection [16496]  Target information:
 
-Player connection [34144]  * "[IP] 173.0.253.225 [Port] 0 [Flags] 2 [Guid] 1252371810 [EditorId] 1252371810 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKN0W4N) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [16496]  * "[IP] 66.175.204.74 [Port] 0 [Flags] 2 [Guid] 471808184 [EditorId] 471808184 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKN0W4N) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [34144] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [34144] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [16496] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16496] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 15384, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 37400, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
+Library Redirect Path: Library/
 [Licensing::Client] Error: HandshakeResponse reported an error:
 	ResponseCode: 505
 	ResponseStatus: Unsupported protocol version '1.17.2'.
 [Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Steven"
 [Licensing::IpcConnector] LicenseClient-Steven channel disconnected successfully.
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1" at "2025-10-01T00:36:40.20041Z"
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 11732, path: "C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1" at "2025-10-14T19:53:03.696109Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 14200, path: "C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.17.2+ff71f16
-  Session Id:              85f1635ff9c4450586cede6ec8bbf94b
-  Correlation Id:          af0a56fce7cb1f8dc3bc75fe685669cc
-  External correlation Id: 5406396540858671454
+  Session Id:              76b674e474bb4ba393d730d41dcfc1fb
+  Correlation Id:          54f6848638605ce74323f7be629e97e6
+  External correlation Id: 114415749979187249
   Machine Id:              2sNOENogX6cWzd6C8v6MCqh1Gw4=
 [Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Steven-6000.2.1" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1-notifications" at "2025-10-01T00:36:40.215732Z"
-[Licensing::Module] Licensing Background thread has ended after 0.06s
-Library Redirect Path: Library/
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Steven-6000.2.1-notifications" at "2025-10-14T19:53:03.7071834Z"
+[Licensing::Module] Licensing Background thread has ended after 0.08s
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 2.36 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.85 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.2.1f1 (55300504c302)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -119,7 +119,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
@@ -135,45 +135,45 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/E
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 [Licensing::Client] Successfully resolved entitlement details
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.1f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 0.009889 seconds.
-- Loaded All Assemblies, in  0.388 seconds
+Registered in 0.009152 seconds.
+- Loaded All Assemblies, in  0.365 seconds
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 206 ms
+Android Extension - Scanning For ADB Devices 850 ms
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.567 seconds
-Domain Reload Profiling: 952ms
-	BeginReloadAssembly (130ms)
+- Finished resetting the current domain, in  1.225 seconds
+Domain Reload Profiling: 1587ms
+	BeginReloadAssembly (116ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (36ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (55ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (53ms)
 	LoadAllAssembliesAndSetupDomain (150ms)
-		LoadAssemblies (127ms)
+		LoadAssemblies (113ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (147ms)
-			TypeCache.Refresh (145ms)
-				TypeCache.ScanAssembly (134ms)
+		AnalyzeDomain (146ms)
+			TypeCache.Refresh (144ms)
+				TypeCache.ScanAssembly (133ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (567ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (1225ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (524ms)
+		SetupLoadedEditorAssemblies (1195ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (316ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (54ms)
-			ProcessInitializeOnLoadAttributes (101ms)
+			InitializePlatformSupportModulesInManaged (957ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (112ms)
 			ProcessInitializeOnLoadMethodAttributes (49ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
@@ -184,11 +184,11 @@ Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
 [Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  0.870 seconds
+- Loaded All Assemblies, in  0.913 seconds
 'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
 Native extension for iOS target not found
 Native extension for Android target not found
 Native extension for UWP target not found
@@ -202,35 +202,35 @@ Package Manager log level set to [2]
 [MODES] ModeService[none].LoadModes
 [MODES] Loading mode Default (0) for mode-current-id-MAGD372-SP25
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.864 seconds
-Domain Reload Profiling: 1725ms
-	BeginReloadAssembly (165ms)
+- Finished resetting the current domain, in  1.020 seconds
+Domain Reload Profiling: 1923ms
+	BeginReloadAssembly (170ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (26ms)
-	RebuildCommonClasses (34ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (36ms)
 	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (44ms)
-	LoadAllAssembliesAndSetupDomain (607ms)
-		LoadAssemblies (398ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (646ms)
+		LoadAssemblies (429ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (299ms)
-			TypeCache.Refresh (212ms)
-				TypeCache.ScanAssembly (197ms)
-			BuildScriptInfoCaches (71ms)
-			ResolveRequiredComponents (12ms)
-	FinalizeReload (864ms)
+		AnalyzeDomain (313ms)
+			TypeCache.Refresh (222ms)
+				TypeCache.ScanAssembly (206ms)
+			BuildScriptInfoCaches (72ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1020ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (665ms)
+		SetupLoadedEditorAssemblies (789ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (12ms)
+			InitializePlatformSupportModulesInManaged (15ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (131ms)
-			ProcessInitializeOnLoadAttributes (411ms)
-			ProcessInitializeOnLoadMethodAttributes (101ms)
+			BeforeProcessingInitializeOnLoad (178ms)
+			ProcessInitializeOnLoadAttributes (480ms)
+			ProcessInitializeOnLoadMethodAttributes (105ms)
 			AfterProcessingInitializeOnLoad (7ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -242,116 +242,66 @@ WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshad
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 1.58 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 191 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 8353 unused Assets / (25.3 MB). Loaded Objects now: 9080.
-Memory consumption went from 266.4 MB to 241.2 MB.
-Total: 12.837100 ms (FindLiveObjects: 1.032000 ms CreateObjectMapping: 0.526300 ms MarkObjects: 5.036200 ms  DeleteObjects: 6.241800 ms)
-
-========================================================================
-Received Prepare
-'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 2.38 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 187 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 8347 unused Assets / (23.7 MB). Loaded Objects now: 9082.
-Memory consumption went from 279.3 MB to 255.5 MB.
-Total: 11.494500 ms (FindLiveObjects: 0.868500 ms CreateObjectMapping: 0.497000 ms MarkObjects: 4.737300 ms  DeleteObjects: 5.391100 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Hidden/Builtin_TerrainVisualization' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 1.71 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 187 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 8351 unused Assets / (23.8 MB). Loaded Objects now: 9086.
-Memory consumption went from 294.9 MB to 271.1 MB.
-Total: 12.348800 ms (FindLiveObjects: 0.859300 ms CreateObjectMapping: 0.525500 ms MarkObjects: 5.349200 ms  DeleteObjects: 5.614300 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Import Request.
-  Time since last request: 153011.038721 seconds.
-  path: Assets/WaterWorks
-  artifactKey: Guid(e77c227da221c304296238934f2e48a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks using Guid(e77c227da221c304296238934f2e48a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cfb0d4893307e231b8bbfacc8c96e92a') in 0.0065038 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+Unloading 196 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8369 unused Assets / (29.8 MB). Loaded Objects now: 9138.
+Memory consumption went from 273.2 MB to 243.4 MB.
+Total: 13.836100 ms (FindLiveObjects: 0.807500 ms CreateObjectMapping: 0.756600 ms MarkObjects: 5.551100 ms  DeleteObjects: 6.720400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.665455 seconds.
-  path: Assets/WaterWorks/Water_Plane.prefab
-  artifactKey: Guid(6e0965b76baec374d9a8e0c82f9033cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks/Water_Plane.prefab using Guid(6e0965b76baec374d9a8e0c82f9033cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de3405a3bed9475203d8a40e8b94efc0') in 3.8458515 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 348
+  Time since last request: 712757.747561 seconds.
+  path: Assets/Shader Graphs_New Shader Graph 1.mat
+  artifactKey: Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader Graphs_New Shader Graph 1.mat using Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '716034461e3560f48c1b1a242af29aba') in 0.7480921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 332
 
 ========================================================================
 Received Import Request.
-  Time since last request: 127.382843 seconds.
-  path: Assets/WaterWorks/Shaders
-  artifactKey: Guid(98a0bb3989adf2e48a808732378d9391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks/Shaders using Guid(98a0bb3989adf2e48a808732378d9391) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd03551e6a164e6ddb1401e09ce2da10c') in 0.0005995 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+  Time since last request: 6277.661308 seconds.
+  path: Assets/Shader Graphs_New Shader Graph 1.mat
+  artifactKey: Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader Graphs_New Shader Graph 1.mat using Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5215a62a914ccdebfb32cd000bcd369') in 2.5243968 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 5
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/WaterWorks/Shaders/Edge_Distance.shadersubgraph
-  artifactKey: Guid(855e1b7d514c442498370d0fb61777c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks/Shaders/Edge_Distance.shadersubgraph using Guid(855e1b7d514c442498370d0fb61777c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf585a32730e4c432d811fe75cfb63df') in 0.0013772 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 227.947718 seconds.
+  path: Assets/Shader Graphs_New Shader Graph 1.mat
+  artifactKey: Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader Graphs_New Shader Graph 1.mat using Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c91b944df9db90a2b885ba74f9a6446') in 2.0116559 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 5
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/WaterWorks/Shaders/WSUV_Water.shadersubgraph
-  artifactKey: Guid(018fad018d058a44caa283cdf595320b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks/Shaders/WSUV_Water.shadersubgraph using Guid(018fad018d058a44caa283cdf595320b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5998ec528f2a70ba2320421b9375fbe9') in 0.0010516 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 59.659820 seconds.
+  path: Assets/Shader Graphs_New Shader Graph 1.mat
+  artifactKey: Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader Graphs_New Shader Graph 1.mat using Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbf9d632558f7731bd368d2c73b15663') in 0.0215958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/WaterWorks/Shaders/Wave_Distance.shadersubgraph
-  artifactKey: Guid(d58957f120086c44a95a7eb2f92ccc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks/Shaders/Wave_Distance.shadersubgraph using Guid(d58957f120086c44a95a7eb2f92ccc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7f615689217c46b98effeede0c1b958e') in 0.0013121 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 287.505426 seconds.
+  path: Assets/Shader Graphs_New Shader Graph 1.mat
+  artifactKey: Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader Graphs_New Shader Graph 1.mat using Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '798a043d380ee8b2d9aed252fa9851c4') in 2.489072 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 5
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/WaterWorks/Shaders/Water_Volume.hlsl
-  artifactKey: Guid(1dba11cee32958e468be69925adcf4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks/Shaders/Water_Volume.hlsl using Guid(1dba11cee32958e468be69925adcf4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c142958febd3a790c42218825f24f70f') in 0.0011572 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 41.761315 seconds.
+  path: Assets/Shader Graphs_New Shader Graph 1.mat
+  artifactKey: Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader Graphs_New Shader Graph 1.mat using Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd88430b0f4841c5416529a5cc00030aa') in 0.0221943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.538238 seconds.
-  path: Assets/WaterWorks/Shaders/Volumetric_Water.shader
-  artifactKey: Guid(25c03bde9e6e4884a9fedcc633b5da0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/WaterWorks/Shaders/Volumetric_Water.shader using Guid(25c03bde9e6e4884a9fedcc633b5da0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ecb26444aadebc6785ea8f1aa197d4d') in 0.0014822 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 68.430744 seconds.
+  path: Assets/Shader Graphs_New Shader Graph 1.mat
+  artifactKey: Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader Graphs_New Shader Graph 1.mat using Guid(6738d7ccae473cd49b540710471d69e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e4c321168a60f9e53328320b90c00c8') in 2.100132 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 5
 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0

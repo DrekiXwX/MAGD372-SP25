@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\waterworks\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\waterworks\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\chapter 01\\3_1_7_usb_blending\\usb_blending.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\3_1_7_usb_blending\\usb_blending.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\chapter 01\\3_1_6_usb_render_type\\usb_replacement_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\3_1_6_usb_render_type\\usb_replacement_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 01\\3_0_7_usb_drawers\\usb_drawers.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\3_0_7_usb_drawers\\usb_drawers.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WaterWorks\\Scripts\\Water_Settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\forst\\cti runtime components\\cti runtime components birp\\shaders\\cti_lod_bark_301.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\forst\\cti runtime components\\cti runtime components birp\\shaders\\cti_lod_bark_301.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:Assets\\WaterWorks\\Scripts\\Water_Settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:Assets\\WaterWorks\\Scripts\\Water_Volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\DOCUMENTATION.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WaterWorks\\DOCUMENTATION.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,6 +47,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "USB_blending.shader",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_1_7_USB_blending\\USB_blending.shader",
+              "RelativeDocumentMoniker": "Assets\\Chapter 01\\3_1_7_USB_blending\\USB_blending.shader",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_1_7_USB_blending\\USB_blending.shader",
+              "RelativeToolTip": "Assets\\Chapter 01\\3_1_7_USB_blending\\USB_blending.shader",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-10-08T00:05:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "USB_replacement_shader.shader",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_1_6_USB_render_type\\USB_replacement_shader.shader",
+              "RelativeDocumentMoniker": "Assets\\Chapter 01\\3_1_6_USB_render_type\\USB_replacement_shader.shader",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_1_6_USB_render_type\\USB_replacement_shader.shader",
+              "RelativeToolTip": "Assets\\Chapter 01\\3_1_6_USB_render_type\\USB_replacement_shader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-10-08T00:03:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "USB_drawers.shader",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_0_7_USB_drawers\\USB_drawers.shader",
+              "RelativeDocumentMoniker": "Assets\\Chapter 01\\3_0_7_USB_drawers\\USB_drawers.shader",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_0_7_USB_drawers\\USB_drawers.shader",
+              "RelativeToolTip": "Assets\\Chapter 01\\3_0_7_USB_drawers\\USB_drawers.shader",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-10-07T23:30:58.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Water_Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
+              "RelativeDocumentMoniker": "Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
+              "RelativeToolTip": "Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:02:59.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DOCUMENTATION.txt",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\DOCUMENTATION.txt",
               "RelativeDocumentMoniker": "Assets\\WaterWorks\\DOCUMENTATION.txt",
@@ -50,12 +103,11 @@
               "RelativeToolTip": "Assets\\WaterWorks\\DOCUMENTATION.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-01T01:45:38.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T01:45:38.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
@@ -63,12 +115,11 @@
               "RelativeToolTip": "Assets\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T20:55:17.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T20:55:17.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MouseLook.cs",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\MouseLook.cs",
               "RelativeDocumentMoniker": "Assets\\MouseLook.cs",
@@ -80,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
@@ -89,41 +140,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
               "WhenOpened": "2025-09-10T17:58:08.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Water_Settings.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "RelativeDocumentMoniker": "Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "RelativeToolTip": "Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:04:20.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Water_Volume.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Volume.cs",
-              "RelativeDocumentMoniker": "Assets\\WaterWorks\\Scripts\\Water_Volume.cs",
-              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Volume.cs",
-              "RelativeToolTip": "Assets\\WaterWorks\\Scripts\\Water_Volume.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T12:48:03.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CTI_LOD_Bark_301.shader",
-              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Forst\\CTI Runtime Components\\CTI Runtime Components BIRP\\Shaders\\CTI_LOD_Bark_301.shader",
-              "RelativeDocumentMoniker": "Assets\\Forst\\CTI Runtime Components\\CTI Runtime Components BIRP\\Shaders\\CTI_LOD_Bark_301.shader",
-              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Forst\\CTI Runtime Components\\CTI Runtime Components BIRP\\Shaders\\CTI_LOD_Bark_301.shader",
-              "RelativeToolTip": "Assets\\Forst\\CTI Runtime Components\\CTI Runtime Components BIRP\\Shaders\\CTI_LOD_Bark_301.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-09-10T03:27:13.138Z"
             }
           ]
         }
