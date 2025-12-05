@@ -5146,3 +5146,207 @@ Memory consumption went from 305.3 MB to 277.7 MB.
 Total: 17.643700 ms (FindLiveObjects: 0.971900 ms CreateObjectMapping: 0.946700 ms MarkObjects: 5.947900 ms  DeleteObjects: 9.776200 ms)
 
 Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Import Request.
+  Time since last request: 1104.086397 seconds.
+  path: Assets/Scenes/ShaderGraphtest.unity
+  artifactKey: Guid(9bfa745aaa9345a448bc50e62ba37dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ShaderGraphtest.unity using Guid(9bfa745aaa9345a448bc50e62ba37dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44b7cac6e908b888a42432db21642349') in 0.0043462 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.394100 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d5f4379b5ff1760e44a642087deef92') in 0.0007874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.563900 seconds.
+  path: Assets/Scenes/IndieHorrorLevel.unity
+  artifactKey: Guid(093013e93847fb744b6130fbad3e9ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/IndieHorrorLevel.unity using Guid(093013e93847fb744b6130fbad3e9ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f89a5b8cc98f561f6b66b735d209b652') in 0.0004959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.394778 seconds.
+  path: Assets/Scenes/ShaderBible.unity
+  artifactKey: Guid(cb7aa1d9f888e4947b25f5e6eb5b5a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ShaderBible.unity using Guid(cb7aa1d9f888e4947b25f5e6eb5b5a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2fdf480b24aef7af251c75b78caaaa29') in 0.0004546 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 378.267859 seconds.
+  path: Assets/Chapter 02/7_0_5_USB_cubemap_reflectance/USB_cubemap_custom/LightingData.asset
+  artifactKey: Guid(7ce33a7af236f1f4c8ec0326f05b3154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 02/7_0_5_USB_cubemap_reflectance/USB_cubemap_custom/LightingData.asset using Guid(7ce33a7af236f1f4c8ec0326f05b3154) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57a717b2256ec6cc4da302365f41e610') in 0.0144314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.770372 seconds.
+  path: Assets/Chapter 03/11_0_1 USB_SDF_plane/USB_SDF_plane.shader
+  artifactKey: Guid(a0725a68d60b78249981144552491da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 03/11_0_1 USB_SDF_plane/USB_SDF_plane.shader using Guid(a0725a68d60b78249981144552491da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de9052aaf5b893fccd7ad9239ca4d821') in 0.0028368 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.827159 seconds.
+  path: Assets/Chapter 01/4_2_0 USB_function_TIME/USB_function_TIME.mat
+  artifactKey: Guid(f7b5043da97529842bfef2ace2fc76fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_2_0 USB_function_TIME/USB_function_TIME.mat using Guid(f7b5043da97529842bfef2ace2fc76fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8aaaf18e2123ea2618988a71b9a6ee36') in 1.265779 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 329
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Chapter 01/4_1_7 USB_function_FRAC/USB_function_FRAC.mat
+  artifactKey: Guid(4ba2548d7e9c56e408c4901b7031584f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_7 USB_function_FRAC/USB_function_FRAC.mat using Guid(4ba2548d7e9c56e408c4901b7031584f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fdb7cd6a72548b33f8de015baf8c7a7') in 0.0232394 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.920194 seconds.
+  path: Assets/Chapter 01/4_1_5 USB_funciton_SSTEP/USB_function_SSTEP.mat
+  artifactKey: Guid(e3ac6ed7a4d9c0947a29665f35339dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_5 USB_funciton_SSTEP/USB_function_SSTEP.mat using Guid(e3ac6ed7a4d9c0947a29665f35339dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b5a2bc40b4cd670ee310ece8a5ac72f') in 0.0197809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.557959 seconds.
+  path: Assets/Chapter 01/4_1_4 USB_function_FLOOR/USB_function_FLOOR.mat
+  artifactKey: Guid(c459f67446625a246bc274e51892d7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_4 USB_function_FLOOR/USB_function_FLOOR.mat using Guid(c459f67446625a246bc274e51892d7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '322fa277808ef989fbbd8d8596b876dd') in 0.0222512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.645654 seconds.
+  path: Assets/Chapter 01/4_1_2 USB_function_TAN/USB_function_TAN.mat
+  artifactKey: Guid(c9ac99ebd0442ff42943310f072b1974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_2 USB_function_TAN/USB_function_TAN.mat using Guid(c9ac99ebd0442ff42943310f072b1974) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cbfc3cac02357c77ac1e9c03f33b4845') in 0.0249243 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.824691 seconds.
+  path: Assets/Chapter 01/4_1_2 USB_function_TAN/USB_function_TAN.shader
+  artifactKey: Guid(23e08be8811190f4db103b5713ddb964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_2 USB_function_TAN/USB_function_TAN.shader using Guid(23e08be8811190f4db103b5713ddb964) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a94ac6241f5be2cd98266a396c8c21b') in 0.0009099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.327080 seconds.
+  path: Assets/Chapter 01/3_1_6_USB_render_type/USB_replaced_mat.mat
+  artifactKey: Guid(2c2639484c276a64a8e7edddf949e40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/3_1_6_USB_render_type/USB_replaced_mat.mat using Guid(2c2639484c276a64a8e7edddf949e40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a47fa2f5367cc637d83ed1686a0a5f7d') in 0.0297923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.430858 seconds.
+  path: Assets/Chapter 01/3_0_7_USB_drawers/USB_drawers.mat
+  artifactKey: Guid(036857a1be355864d812127a28f752dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/3_0_7_USB_drawers/USB_drawers.mat using Guid(036857a1be355864d812127a28f752dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17feb3d7d7299b3b74a1cffa1cbf0b3a') in 0.0284523 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.010993 seconds.
+  path: Assets/Chapter 01/4_0_8_USB_function_ABS/USB_function_ABS.shader
+  artifactKey: Guid(34663a98af7706845b3f5c12c218eaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_0_8_USB_function_ABS/USB_function_ABS.shader using Guid(34663a98af7706845b3f5c12c218eaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2e6f1b74ac236baa7058d64bcd5b1aa') in 0.0007492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.971942 seconds.
+  path: Assets/Chapter 01/4_0_9_USB_function_CEIL/USB_function_CEIL.mat
+  artifactKey: Guid(1d268ea57d5fc014c92450d9783810f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_0_9_USB_function_CEIL/USB_function_CEIL.mat using Guid(1d268ea57d5fc014c92450d9783810f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ddcbc6fe4bc17ba140627ede6ff88ed') in 0.0343621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.483855 seconds.
+  path: Assets/Chapter 01/4_1_0_USB_function_CLAMP/USB_function_CLAMP.mat
+  artifactKey: Guid(edf555ffa42aff84e82c9fe39fb097d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_0_USB_function_CLAMP/USB_function_CLAMP.mat using Guid(edf555ffa42aff84e82c9fe39fb097d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '311a52ba0ab17b71d1eaa8af7fe3e500') in 0.0308898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.356051 seconds.
+  path: Assets/Chapter 01/4_1_1 USB_function_SINCOS/USB_function_SINCOS.mat
+  artifactKey: Guid(f1f851ba0055d29468137b33ee173c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_1 USB_function_SINCOS/USB_function_SINCOS.mat using Guid(f1f851ba0055d29468137b33ee173c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5665ccea280e605bfd816d61573a790b') in 0.0367564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.029192 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab
+  artifactKey: Guid(b668297611fe99946886b9dc51d8d12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab using Guid(b668297611fe99946886b9dc51d8d12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '768a0e961517395aa4b505618b7e0c9e') in 0.0004435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002519 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_1_.prefab
+  artifactKey: Guid(5f937d12aa1e4ad4e83ada064918d2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_1_.prefab using Guid(5f937d12aa1e4ad4e83ada064918d2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5bf79e0795a129e7a772242eee102e37') in 0.1388087 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 124
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_8_.prefab
+  artifactKey: Guid(6e84f91a300e3cd478c5773dfe8c0aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_8_.prefab using Guid(6e84f91a300e3cd478c5773dfe8c0aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9c0f3948764a1b229d97da415b46b00') in 0.0749907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 112
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_9_.prefab
+  artifactKey: Guid(7ce3b060c58767549a9de989b8f46b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_9_.prefab using Guid(7ce3b060c58767549a9de989b8f46b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a45eabb778e5125411afda9ceed89756') in 0.0585092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 86
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_6_.prefab
+  artifactKey: Guid(cd55efc0f3905d841b067b2b2f0a2d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_6_.prefab using Guid(cd55efc0f3905d841b067b2b2f0a2d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '67a75d3df4621ac788719ecb27c78e36') in 0.0379436 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 125
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.961429 seconds.
+  path: Assets/Settings/PC_RPAsset.asset
+  artifactKey: Guid(4b83569d67af61e458304325a23e5dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/PC_RPAsset.asset using Guid(4b83569d67af61e458304325a23e5dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce9c983c679e9618481bd48d3eecba00') in 0.0009452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.406778 seconds.
+  path: Assets/SigunStudio/Toony Workshop Tools FREE/Meshes/Tools/axe_small.fbx
+  artifactKey: Guid(a15dc1ed1bdf1f74db2d8dc0250295c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SigunStudio/Toony Workshop Tools FREE/Meshes/Tools/axe_small.fbx using Guid(a15dc1ed1bdf1f74db2d8dc0250295c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5556a0706d90d1ce077d834ca1ec14ad') in 0.1783704 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

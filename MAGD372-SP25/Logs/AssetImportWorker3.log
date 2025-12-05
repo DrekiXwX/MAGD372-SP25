@@ -4378,3 +4378,63 @@ Memory consumption went from 304.0 MB to 276.0 MB.
 Total: 18.449700 ms (FindLiveObjects: 0.957300 ms CreateObjectMapping: 1.045200 ms MarkObjects: 5.981600 ms  DeleteObjects: 10.464800 ms)
 
 Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Import Request.
+  Time since last request: 2075.229307 seconds.
+  path: Assets/Chapter 01/4_1_8 USB_function_LERP/USB_function_LERP.mat
+  artifactKey: Guid(7028f90f29f3a6e47908ea78e79eb056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chapter 01/4_1_8 USB_function_LERP/USB_function_LERP.mat using Guid(7028f90f29f3a6e47908ea78e79eb056) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52f0e0cee308052d2668014dc9bd2bec') in 0.6535124 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 330
+
+========================================================================
+Received Import Request.
+  Time since last request: 220.546758 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_2_.prefab
+  artifactKey: Guid(be8602268c2904543b8e6f053d25af61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_2_.prefab using Guid(be8602268c2904543b8e6f053d25af61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4cf5e3c539881aa6e62ad8c80de44a6') in 0.1435484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 126
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_5_.prefab
+  artifactKey: Guid(38afb42373a97d749bf5767ecd68a542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_5_.prefab using Guid(38afb42373a97d749bf5767ecd68a542) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f36f673ca6e450b3d674b69c42cbe53') in 0.0708571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 124
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_4_.prefab
+  artifactKey: Guid(90d5967ef7c357649a7eb873349f4175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_4_.prefab using Guid(90d5967ef7c357649a7eb873349f4175) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14e0537e0f8ee41ebd6b3c977930eb91') in 0.0335251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 123
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_7_.prefab
+  artifactKey: Guid(b6a9d3e3e68e9d942958bf9e3389424f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_7_.prefab using Guid(b6a9d3e3e68e9d942958bf9e3389424f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ebcc9b483b6b71fa632c54e913609dd4') in 0.057579 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 163
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_3_.prefab
+  artifactKey: Guid(69a61a6f7addaa94683e7e547eed1561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MotorcyclePack_/MotorcyclePack_SRP_Build_/Prefab/SuperMotors_3_.prefab using Guid(69a61a6f7addaa94683e7e547eed1561) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b69e6fddd5e745e2a839ef5743544445') in 0.0404533 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 124
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.338727 seconds.
+  path: Assets/SigunStudio/Toony Workshop Tools FREE/Meshes/Tools/hammer_1.fbx
+  artifactKey: Guid(4a54589734710e241a6f3dc7fd32c6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SigunStudio/Toony Workshop Tools FREE/Meshes/Tools/hammer_1.fbx using Guid(4a54589734710e241a6f3dc7fd32c6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a5211f9a82d33618092b30ae116c247') in 0.1612206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
