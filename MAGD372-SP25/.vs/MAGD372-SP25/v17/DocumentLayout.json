@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\normalmap example.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\normalmap example.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\chapter 01\\4_2_0 usb_function_time\\usb_function_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\4_2_0 usb_function_time\\usb_function_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\chapter 02\\6_0_1_usb_normal_map\\usb_normal_map.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 02\\6_0_1_usb_normal_map\\usb_normal_map.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\chapter 01\\4_0_9_usb_function_ceil\\usb_function_ceil.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\4_0_9_usb_function_ceil\\usb_function_ceil.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\time example.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\time example.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\tangent example.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -25,6 +17,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 01\\4_1_2 usb_function_tan\\usb_function_tan.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\4_1_2 usb_function_tan\\usb_function_tan.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 01\\4_0_9_usb_function_ceil\\usb_function_ceil.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\4_0_9_usb_function_ceil\\usb_function_ceil.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\normalmap example.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\normalmap example.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 01\\4_2_0 usb_function_time\\usb_function_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\4_2_0 usb_function_time\\usb_function_time.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 02\\6_0_1_usb_normal_map\\usb_normal_map.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 02\\6_0_1_usb_normal_map\\usb_normal_map.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 01\\3_1_6_usb_render_type\\usb_replacement_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\3_0_7_usb_drawers\\usb_drawers.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WaterWorks\\Scripts\\Water_Settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\DOCUMENTATION.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WaterWorks\\DOCUMENTATION.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +70,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Path.cs",
+              "RelativeDocumentMoniker": "Assets\\Path.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Path.cs",
+              "RelativeToolTip": "Assets\\Path.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:59:18.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tangent Example.shader",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Tangent Example.shader",
+              "RelativeDocumentMoniker": "Assets\\Tangent Example.shader",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Tangent Example.shader",
+              "RelativeToolTip": "Assets\\Tangent Example.shader",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-12-05T08:28:18.921Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Time Example.shader",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Time Example.shader",
+              "RelativeDocumentMoniker": "Assets\\Time Example.shader",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Time Example.shader",
+              "RelativeToolTip": "Assets\\Time Example.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-12-05T08:47:54.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-09-10T17:58:08.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "USB_function_TIME.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\4_2_0 USB_function_TIME\\USB_function_TIME.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 01\\4_2_0 USB_function_TIME\\USB_function_TIME.shader",
@@ -82,25 +133,23 @@
               "RelativeToolTip": "Assets\\Chapter 01\\4_2_0 USB_function_TIME\\USB_function_TIME.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-12-05T08:46:46.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:46:46.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "USB_function_CEIL.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\4_0_9_USB_function_CEIL\\USB_function_CEIL.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 01\\4_0_9_USB_function_CEIL\\USB_function_CEIL.shader",
               "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\4_0_9_USB_function_CEIL\\USB_function_CEIL.shader",
               "RelativeToolTip": "Assets\\Chapter 01\\4_0_9_USB_function_CEIL\\USB_function_CEIL.shader",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-12-05T08:45:55.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:45:55.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "NormalMap Example.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\NormalMap Example.shader",
               "RelativeDocumentMoniker": "Assets\\NormalMap Example.shader",
@@ -108,24 +157,11 @@
               "RelativeToolTip": "Assets\\NormalMap Example.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-12-05T08:34:09.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:34:09.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Tangent Example.shader",
-              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Tangent Example.shader",
-              "RelativeDocumentMoniker": "Assets\\Tangent Example.shader",
-              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Tangent Example.shader",
-              "RelativeToolTip": "Assets\\Tangent Example.shader",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-12-05T08:28:18.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "USB_function_TAN.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\4_1_2 USB_function_TAN\\USB_function_TAN.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 01\\4_1_2 USB_function_TAN\\USB_function_TAN.shader",
@@ -137,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "USB_diffuse_shading.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 02\\7_0_3_USB_diffuse_reflectance\\USB_diffuse_shading.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 02\\7_0_3_USB_diffuse_reflectance\\USB_diffuse_shading.shader",
@@ -149,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "USB_normal_map.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 02\\6_0_1_USB_normal_map\\USB_normal_map.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 02\\6_0_1_USB_normal_map\\USB_normal_map.shader",
@@ -157,12 +193,11 @@
               "RelativeToolTip": "Assets\\Chapter 02\\6_0_1_USB_normal_map\\USB_normal_map.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-10-08T00:12:07.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T00:12:07.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "USB_blending.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_1_7_USB_blending\\USB_blending.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 01\\3_1_7_USB_blending\\USB_blending.shader",
@@ -174,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "USB_replacement_shader.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_1_6_USB_render_type\\USB_replacement_shader.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 01\\3_1_6_USB_render_type\\USB_replacement_shader.shader",
@@ -186,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "USB_drawers.shader",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\Chapter 01\\3_0_7_USB_drawers\\USB_drawers.shader",
               "RelativeDocumentMoniker": "Assets\\Chapter 01\\3_0_7_USB_drawers\\USB_drawers.shader",
@@ -198,30 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Water_Settings.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "RelativeDocumentMoniker": "Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "RelativeToolTip": "Assets\\WaterWorks\\Scripts\\Water_Settings.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T02:02:59.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DOCUMENTATION.txt",
-              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\DOCUMENTATION.txt",
-              "RelativeDocumentMoniker": "Assets\\WaterWorks\\DOCUMENTATION.txt",
-              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\WaterWorks\\DOCUMENTATION.txt",
-              "RelativeToolTip": "Assets\\WaterWorks\\DOCUMENTATION.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-01T01:45:38.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
@@ -233,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MouseLook.cs",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Assets\\MouseLook.cs",
               "RelativeDocumentMoniker": "Assets\\MouseLook.cs",
@@ -242,19 +254,6 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T18:02:16.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
-              "ToolTip": "C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Shaders\\Lit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-09-10T17:58:08.397Z",
-              "EditorCaption": ""
             }
           ]
         }
