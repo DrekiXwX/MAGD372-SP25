@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 02\\7_0_3_usb_diffuse_reflectance\\usb_diffuse_shading.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\chapter 02\\6_0_1_usb_normal_map\\usb_normal_map.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 02\\6_0_1_usb_normal_map\\usb_normal_map.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 02\\6_0_1_usb_normal_map\\usb_normal_map.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|c:\\users\\steven\\documents\\unityprojects\\magd372-sp25\\magd372-sp25\\assets\\chapter 01\\3_1_7_usb_blending\\usb_blending.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|C:\\Users\\Steven\\Documents\\UnityProjects\\MAGD372-SP25\\MAGD372-SP25\\assets\\chapter 01\\3_1_7_usb_blending\\usb_blending.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{2C01EBF0-1665-AFBB-704A-F378DD4D395D}|Assembly-CSharp.csproj|solutionrelative:assets\\chapter 01\\3_1_7_usb_blending\\usb_blending.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Assets\\Chapter 02\\6_0_1_USB_normal_map\\USB_normal_map.shader",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-10-08T00:12:07.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T00:12:07.137Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Assets\\Chapter 01\\3_1_7_USB_blending\\USB_blending.shader",
               "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-10-08T00:05:15.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T00:05:15.565Z"
             },
             {
               "$type": "Document",
